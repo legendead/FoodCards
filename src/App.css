@@ -1,0 +1,11 @@
+.main-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .block-wrapper {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
